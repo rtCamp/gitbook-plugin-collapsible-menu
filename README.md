@@ -28,6 +28,12 @@ It hooks into gitbook's `page.change` event. First it hides all pages, and then 
 
 Testing with PDF book generation. I hope it won't break.
 
+## Alternatives
+
+Just after publishing this one, I came across - https://github.com/poojan/gitbook-plugin-toggle-chapters
+
+If for some reason this plugin troubles you, you can try other. :-)
+
 ## Changelog
 
 **1.0.2 - 20 May 2015**
