@@ -30,6 +30,10 @@ Testing with PDF book generation. I hope it won't break.
 
 ## Changelog
 
+**1.0.2 - 20 May 2015**
+
+- Improved active chapter's children visibility
+
 **1.0.1 - 20 May 2015**
 
 - Fixes active chapter's children visibility

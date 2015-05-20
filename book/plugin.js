@@ -3,6 +3,6 @@ require(["gitbook"], function(gitbook) {
         $('ul.summary li li').hide();
         // $('ul.summary li').find('li.active').parent().children().show();
         $('ul.summary li li.active').parents().children().show();
-        $('ul.summary li.active li').show();        
+        $('ul.summary li.active > ul > li').show();        
     });
 });
