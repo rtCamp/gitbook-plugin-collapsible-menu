@@ -2,7 +2,7 @@
   "name": "gitbook-plugin-collapsible-menu",
   "description": "GitBook Plugin to change sidebar menu's to collapsible menu. For gitbook with many pages, navigating long menus can get irritating.",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "rtCamp <admin@rtcamp.com>",
   "contributors": [
     {
