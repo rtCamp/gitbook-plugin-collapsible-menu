@@ -36,6 +36,10 @@ If for some reason this plugin troubles you, you can try other. :-)
 
 ## Changelog
 
+**1.0.3 - 31 March 2017**
+
+- Fixed `<script>` tag issue #4 (props @daffl)
+
 **1.0.2 - 20 May 2015**
 
 - Improved active chapter's children visibility
